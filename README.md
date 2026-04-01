@@ -1,16 +1,14 @@
 <div align="center">
 
 ```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║   █████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗██████╗ ██╗  ██╗   ║
-    ║  ██╔══██╗████╗  ██║██║██╔══██╗██║   ██║██╔══██╗██║  ██║   ║
-    ║  ███████║██╔██╗ ██║██║██████╔╝██║   ██║██████╔╝███████║   ║
-    ║  ██╔══██║██║╚██╗██║██║██╔══██╗██║   ██║██╔══██╗██╔══██║   ║
-    ║  ██║  ██║██║ ╚████║██║██║  ██║╚██████╔╝██║  ██║██║  ██║   ║
-    ║  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ║
-    ║         Pratap Singh Yadav · CS @ Symbiosis · 🇮🇳          ║
-    ╚═══════════════════════════════════════════════════════════╝
+    _   _  _ ___ ___ _   _ ___  _  _
+   /_\ | \| |_ _| _ \ | | |   \| || |
+  / _ \| .` || ||   / |_| | |) | __ |
+ /_/ \_\_|\_|___|_|_\\___/|___/|_||_|
 ```
+
+### Pratap Singh Yadav
+<sub>CS @ Symbiosis · India</sub>
 
 ### Hi, I'm Anirudh — I build things that *think* and *scale* 🚀
 
@@ -117,8 +115,8 @@ I'm a **Computer Science** undergraduate at **Symbiosis International University
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnirudhPratapSinghYadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnirudhPratapSinghYadav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-pratap-singh-yadav-79478b264/)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhpsyadav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
