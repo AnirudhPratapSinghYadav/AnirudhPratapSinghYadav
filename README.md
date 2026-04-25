@@ -76,19 +76,6 @@ I'm a **Computer Science** undergraduate at **Symbiosis International University
 
 ---
 
-## 💼 Featured Projects
-
-| Project | What it is |
-|--------|------------|
-| 🧠 [**AI Project Hub**](https://github.com/AnirudhPratapSinghYadav/ai-project-hub) | End-to-end ML / LLM experiments — notebooks, APIs, and demos I actually use. |
-| 🌐 [**Full-Stack Web App**](https://github.com/AnirudhPratapSinghYadav/fullstack-web-app) | React + Node stack: auth, REST, and a UI I’m proud to show recruiters. |
-| 📱 [**Flutter Utility**](https://github.com/AnirudhPratapSinghYadav/flutter-utility) | Cross-platform mobile tool — clean state, APIs, and real-world UX polish. |
-| ⚡ [**Hackathon Builds**](https://github.com/AnirudhPratapSinghYadav/hackathon-builds) | Rapid prototypes from 4 winning sprints — ideas compressed into shipping code. |
-
-> Replace the repo names above with your **real** repository slugs after you push them.
-
----
-
 ## 🔥 Stats Cards
 
 <div align="center">
